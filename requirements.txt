@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+plotly[express]
+requests
+python-dotenv
